@@ -18,6 +18,11 @@ Me chamo **[Ingrid Moitinho](https://github.com/ingridmoitinho)** ✨ Sou apaixo
 - `4. Criando sua Primeira Função com Amazon Lambda`   
 - `5. Banco de Dados na AWS`  
 - `6. Armazenamento e CDN`  
+- `7. Serviços Intermediários e Avançados`  
+- `7. Serviços Intermediários e Avançados (AWS Step Functions)`
+- `8. Gerenciamento e Governança` 
+- `9. Segurança na AWS `
+- `Certificados`
 - `Desafio de codigo`
 ---
 
@@ -50,8 +55,8 @@ Me chamo **[Ingrid Moitinho](https://github.com/ingridmoitinho)** ✨ Sou apaixo
 - [x] MO-4 → Redes na AWS  
 - [x] MO-5 → Banco de Dados na AWS  
 - [x] MO-6 → Serviços de Armazenamento e CDN  
-- [ ] MO-7 → Serviços Intermediários e Avançados  
-- [ ] MO-8 → Gerenciamento e Governança na AWS  
+- [x] MO-7 → Serviços Intermediários e Avançados  
+- [x] MO-8 → Gerenciamento e Governança na AWS  
 - [ ] MO-9 → Segurança na AWS  
 - [ ] MO-10 → Desenvolvimento e Ferramentas  
 - [ ] MO-11 → Automação e DevOps na AWS
